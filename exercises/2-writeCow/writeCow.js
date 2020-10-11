@@ -1,4 +1,5 @@
-// Write this cow ascii art to a file called cowsaid.txt
+// Write this cow ascii art in the cow variable to a file called cowsaid.txt
+// *Bonus* Have an array of quotes and pick one at random for the cow to say before it is written to the file.
 
 let cow = `
  ________________________________________
@@ -11,5 +12,3 @@ let cow = `
                ||----w |
                ||     ||
 `
-
-// *Bonus* Have an array of quotes and pick one at random for the cow to say before it is written to the file.
